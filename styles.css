@@ -1,0 +1,40 @@
+/* Styles */
+
+body {
+	background-color: #f0c5c5;
+	color: black;
+	font-family: sans-serif;
+}
+
+
+h1 {
+	font-size: 72pt;
+}
+
+h2 {
+	font-weight:lighter;	
+}
+
+p{
+	max-width:35em;
+}
+
+article{
+	margin:2em;
+    padding:1em;
+    border-style:double;
+    border-width:1em;
+    border-color:purple;
+ }
+ ul{font-style:italic;
+     font-family:serif;
+ }
+
+
+
+
+
+
+
+
+
