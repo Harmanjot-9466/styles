@@ -2,7 +2,7 @@
 
 body {
 	background-color: #f0c5c5;
-	color: black;
+	color:black;
 	font-family: sans-serif;
 }
 
@@ -12,18 +12,18 @@ h1 {
 }
 
 h2 {
-	font-weight:lighter;	
+	font-weight:lighter;
 }
 
 p{
-	max-width:35em;
+	max-width:65em;
 }
 
 article{
 	margin:2em;
     padding:1em;
     border-style:double;
-    border-width:1em;
+    border-width:2em;
     border-color:purple;
  }
  ul{font-style:italic;
